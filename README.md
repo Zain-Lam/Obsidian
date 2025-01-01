@@ -1,0 +1,2 @@
+# Obsidian
+Obsidian-Notes-Backup
