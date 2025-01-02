@@ -1,4 +1,4 @@
-[[Analysis]] [[Analysis 1]]
+[[Mathematics]] [[Analysis]] [[Analysis 1]]
 $$
 |a+b|\leq|a|+|b|
 $$
