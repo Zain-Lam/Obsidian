@@ -1,2 +1,1 @@
-sakjfnlaskjdflaksjdf nlskjdfla ksj dfnl alskjdf alkjdfnl 
-we also have
+this is the test run, I have gotten CMU serif to work on obsidian :)
