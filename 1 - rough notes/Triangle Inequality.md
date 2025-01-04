@@ -6,9 +6,7 @@ START
 Basic
 State the triangle inequality
 Back:
-$$
-|a+b|\leq|a|+|b|
-$$
+Inline $\sum$
 
 Tags: Testing
 <!--ID: 1736019629883-->
