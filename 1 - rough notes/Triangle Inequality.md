@@ -6,8 +6,7 @@ START
 Basic
 State the triangle inequality
 Back:
-Inline $\sum$
-
+$\sum$
 Tags: Testing
 <!--ID: 1736019629883-->
 END

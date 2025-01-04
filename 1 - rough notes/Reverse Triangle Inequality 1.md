@@ -3,13 +3,13 @@ $$
 |a-b|\geq||a|-|b||
 $$
 
-START
-Basic
-State the reverse triangle inequality
-Back: 
-$$
+Q:State the reverse triangle inequality
+A:$$
 |a-b|\geq||a|-|b||
 $$
-Tags: Testing
 <!--ID: 1736019369553-->
-END
+
+
+Q: Latex test
+A: $\sum$
+<!--ID: 1736020326185-->
