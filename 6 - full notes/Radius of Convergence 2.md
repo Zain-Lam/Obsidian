@@ -9,3 +9,4 @@ A: Let $\sum^{\infty}_{n=0}a_{n}x^{n}$ be a power series. One of the following h
 • The series converges only if $x = 0$.
 • The series converges for all real numbers $x$.
 • There is a positive number R with the property that the series converges if $|x| < R$ and diverges if $|x| > R$ 
+<!--ID: 1736185114113-->
