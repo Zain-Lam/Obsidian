@@ -1,4 +1,4 @@
-[[Mathematics]] [[Analysis]] [[Analysis 1]] [[Triangle Inequality]] 
+[[Mathematics]] [[Analysis]] [[MA141 Analysis 1]] [[Triangle Inequality]] 
 $$
 |a-b|\geq||a|-|b||
 $$
