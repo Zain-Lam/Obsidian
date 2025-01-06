@@ -1,8 +1,4 @@
 Author: [[Sheldon Natenberg]]
-Tags:[[Finance]] [[Options]] [[Quant]]
+Tags: [[Options]] [[Quant]]
 Link: [[Sheldon Natenberg - Option Volatility and Pricing.pdf]]
 ### Rough Notes
-
-
-
-
