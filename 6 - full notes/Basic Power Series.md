@@ -3,7 +3,7 @@ Status:
 Tags: [[Power Series]]
 # Basic Power Series
 
-TD: YEAR1::TERM2::MA139 Analysis 2::Power Series 1
+TD: YEAR1::TERM2::MA139 Analysis 2::01 Power Series 1
 Q: What is the basic form of a Power Series?
 A: $$
 \sum^{\infty}_{n=0}a_{n}x^{n}

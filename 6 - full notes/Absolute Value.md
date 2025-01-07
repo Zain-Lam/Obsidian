@@ -3,7 +3,7 @@ Status:
 Tags: [[Rational and Irrational Numbers]]
 # Absolute Value
 
-TD: YEAR1::TERM1::MA141 Analysis 1::Chapter 1
+TD: YEAR1::TERM1::MA141 Analysis 1::01 Rational and Irrational Numbers
 Q: Define the absolute value function
 A: $$
 |x| =
