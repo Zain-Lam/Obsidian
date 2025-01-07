@@ -1,6 +1,6 @@
 2025-01-06 17:12
 Status: 
-Tags:[[MA139 Analysis 2]] [[Power Series]]
+Tags: [[Power Series]]
 # Radius of Convergence 1
 
 TD: YEAR1::TERM2::MA139 Analysis 2::Power Series 1
