@@ -1,6 +1,6 @@
 2025-01-07 10:59
 Status: 
-Tags: [[Introduction to Combinatorics]]
+Tags: [[Introduction to Combinatorics Chap 1]]
 # Counting Criteria
 
 TD: OLYMATH::Intro to Combinatorics::Chap 1

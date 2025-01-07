@@ -1,6 +1,6 @@
 2025-01-07 11:02
 Status: 
-Tags: [[Introduction to Combinatorics]]
+Tags: [[Introduction to Combinatorics Chap 1]]
 # Multiplication Principle
 
 TD: OLYMATH::Intro to Combinatorics::Chap 1

@@ -1,6 +1,6 @@
 2025-01-07 11:11
 Status: 
-Tags: [[Introduction to Combinatorics]]
+Tags: [[Introduction to Combinatorics Chap 1]]
 # Permutation
 
 TD: OLYMATH::Intro to Combinatorics::Chap 1
