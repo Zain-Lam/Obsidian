@@ -8,8 +8,7 @@
 ## Statistics/Probability:
 [[ST121 Statistical Laboratory]]
 
-## :
+## Olympiad Maths:
 [[Combinatorics]]
-[[Introduction to Combinatorics]]
 [[BMO1]]
 [[BMO2]]

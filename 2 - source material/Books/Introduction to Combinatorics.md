@@ -1,5 +1,5 @@
 Author: [[Gerry Leversha]] [[Dominic Rowland]]
-Tags:
+Tags: [[Combinatorics]]
 Link:
 ### Rough Notes
 
