@@ -1,6 +1,6 @@
 {{date}} {{time}}
 Status: 
-Tags: [[Combinatorics]]
+Tags: [[Introduction to Combinatorics]]
 # {{title}}
 
 TD: OLYMATH::Intro to Combinatorics::Chap 1
