@@ -1,12 +1,13 @@
 ## Analysis:
 [[Analysis]]
 
-
+## Algebra:
+[[Algebra]]
 ## Number Theory:
-[[MA257 Intro to Number Theory]]
+[[Number Theory]]
 
 ## Statistics/Probability:
-[[ST121 Statistical Laboratory]]
+[[Stats-Prob]]
 
 ## Olympiad Maths:
 [[Combinatorics]]
