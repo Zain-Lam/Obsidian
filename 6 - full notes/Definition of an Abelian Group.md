@@ -1,6 +1,6 @@
 2025-01-07 17:00
 Status: 
-Tags: [[Groups]] [[Group properties]]
+Tags: [[Groups]] [[Group properties]] [[Definiton of commutativity]]
 # Definition of an Abelian Group
 
 TD: YEAR1::TERM1::MA151 Algebra 1::03 Groups
