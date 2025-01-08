@@ -1,6 +1,6 @@
 2025-01-08 00:18
 Status: 
-Tags: [[First Theorems and Notation in Alg 1]]
+Tags: [[First Theorems and Notation in Alg 1]] [[Group identity existence]]
 # Uniqueness of Identity element in a group
 
 TD: YEAR1::TERM1::MA151 Algebra 1::04 First Theorems and Notation
@@ -12,3 +12,4 @@ If we let $a = e$ and use $e′$ as the identity then we get $e ⋆ e′ = e$
 But if we let $a = e ′$ and use $e$ as the identity then we get $e⋆ e′ = e ′$ 
 Thus $e = e ′$ 
 In other words, the identity element is unique.
+<!--ID: 1736295838170-->
