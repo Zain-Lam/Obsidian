@@ -1,1 +1,0 @@
-$\forall \mathbb{}^{}_{}$
