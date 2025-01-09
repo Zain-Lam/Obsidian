@@ -1,2 +1,2 @@
 #mathematics 
-[[Discrete Maths]]
+[[DM2 Chap 1]]
