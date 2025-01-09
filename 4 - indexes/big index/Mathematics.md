@@ -9,6 +9,8 @@
 ## Statistics/Probability:
 [[Stats-Prob]]
 
+## Discrete Maths:
+[[Discrete Maths]]
 ## Olympiad Maths:
 [[Combinatorics]]
 [[BMO1]]
