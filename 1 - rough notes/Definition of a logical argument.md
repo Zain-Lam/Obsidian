@@ -1,6 +1,6 @@
 2025-01-10 17:25
 Status: 
-Tags: [[Logic]]
+Tags: [[Logically valid arguments]]
 # Definition of a logical argument
 
 TD: YEAR1::TERM2::PH136 Logic 1

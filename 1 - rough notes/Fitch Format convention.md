@@ -1,6 +1,6 @@
 2025-01-10 17:26
 Status: 
-Tags: [[Logic]]
+Tags: [[Logically valid arguments]]
 # Fitch Format convention
 
 TD: YEAR1::TERM2::PH136 Logic 1

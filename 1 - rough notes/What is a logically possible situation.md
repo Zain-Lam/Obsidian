@@ -1,6 +1,6 @@
 2025-01-10 17:44
 Status: 
-Tags: [[Logic]]
+Tags: [[Logically valid arguments]]
 # What is a logically possible situation
 
 TD: YEAR1::TERM2::PH136 Logic 1
