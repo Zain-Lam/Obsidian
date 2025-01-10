@@ -8,3 +8,4 @@ Q: Define an argument in logic
 A: a collection of statements
 1) one is the _conclusion_
 2) the rest are its _premises_ 
+<!--ID: 1736530610601-->

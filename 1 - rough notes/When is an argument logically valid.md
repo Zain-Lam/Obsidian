@@ -8,3 +8,4 @@ Q: When is an argument _logically valid_?
 A: _iff_ there is no possible situation where:
 1) all the premises are true
 2) the conclusion is false
+<!--ID: 1736530610604-->
