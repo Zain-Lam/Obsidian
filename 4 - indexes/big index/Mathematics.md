@@ -11,6 +11,9 @@
 
 ## Discrete Maths:
 [[Discrete Maths]]
+
+## Logic:
+[[Logic]]
 ## Olympiad Maths:
 [[Combinatorics]]
 [[BMO1]]
