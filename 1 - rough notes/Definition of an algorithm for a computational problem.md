@@ -1,6 +1,6 @@
 2025-01-11 19:27
 Status: 
-Tags: [[DM2 Chap 1]]
+Tags: [[DM2 Problems and Algorithms]]
 # Definition of an algorithm for a computational problem
 
 TD: YEAR1::TERM2::CS147 Discrete Maths 2::01 

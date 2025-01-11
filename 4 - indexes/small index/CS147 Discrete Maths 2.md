@@ -1,2 +1,2 @@
 #mathematics 
-[[DM2 Chap 1]]
+[[DM2 Problems and Algorithms]]
