@@ -12,3 +12,4 @@ $$\begin{align}
 &⇔ \sqrt{ \ln 2 } ≥ 10^4 \ln 2 ⇔ n ≥ e^{{10}^{8(\ln 2)^{2}}} := N
 \end{align}$$
 Conclude the proof by taking $c \geq 1$ and $N=e^{{10}^{8(\ln 2)^{2}}}$ 
+<!--ID: 1736770745516-->

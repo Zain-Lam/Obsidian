@@ -8,3 +8,4 @@ Q: If $c$ is a constant, what can we say about $\mathcal O(cf(n))$
 A:  $\mathcal O(cf(n)) = \mathcal O(f(n))$
 ◦ Example 1: $\mathcal O(5n^2 ) = \mathcal O(n^2 )$.
 ◦ Example 2: $\mathcal O(\log_a n) =\mathcal O(\log_b n)$ if $a, b > 0$ are constants.
+<!--ID: 1736770745519-->
