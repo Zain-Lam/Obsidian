@@ -1,6 +1,6 @@
 2025-01-13 12:24
 Status: 
-Tags: [[g(n) in big O of f(n)]]
+Tags: [[g(n) in big O of f(n)]] [[DM2 Asymptotic notation and summations]]
 # using limits for big O
 
 TD: YEAR1::TERM2::CS147 Discrete Maths 2::01 

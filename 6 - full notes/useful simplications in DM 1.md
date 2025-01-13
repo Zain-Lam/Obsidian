@@ -1,6 +1,6 @@
 2025-01-13 11:32
 Status: 
-Tags: [[DM2 Problems and Algorithms]]
+Tags: [[DM2 Asymptotic notation and summations]]
 # useful simplications in DM 1
 
 TD: YEAR1::TERM2::CS147 Discrete Maths 2::01 

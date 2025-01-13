@@ -1,6 +1,6 @@
 2025-01-13 12:36
 Status: 
-Tags: [[g(n) in big theta of f(n)]]
+Tags: [[g(n) in big theta of f(n)]] [[DM2 Asymptotic notation and summations]]
 # Geometric series big theta
 
 TD: YEAR1::TERM2::CS147 Discrete Maths 2::01 
