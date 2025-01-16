@@ -1,6 +1,6 @@
 2025-01-11 17:14
 Status: 
-Tags: [[Formal Language, intro to L1]]
+Tags: [[Formal Language, intro to L1]] [[logical negation]]
 # Definition of a sentence in L1
 
 TD: YEAR1::TERM2::PH136 Logic 1
