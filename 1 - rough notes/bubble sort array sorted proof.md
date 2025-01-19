@@ -9,3 +9,4 @@ A: 1) after the $i^{th}$ iteration in the outer loop, $A[n], A[n − 1], · · �
 2) according to the condition, after the $i^{th}$ iteration, no swap for $A[j]$ with $j = 1, 2, · · · , n − i$,
 3) i.e., $A[1], A[2], · · · , A[n − i], A[n − i + 1]$ are sorted.
 4) Accordingly, we finish the proof.
+<!--ID: 1737305011182-->
