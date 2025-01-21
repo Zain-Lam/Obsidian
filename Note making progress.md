@@ -1,4 +1,4 @@
 ## Alg 1:
-6.4
+finished 6.4
 ## DM2:
 Bubble sort

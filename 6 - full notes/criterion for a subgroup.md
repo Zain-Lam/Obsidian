@@ -1,6 +1,6 @@
 2025-01-15 15:17
 Status: 
-Tags: [[Subgroup definition]]
+Tags: [[Subgroups]]
 # criterion for a subgroup
 
 TD: YEAR1::TERM1::MA151 Algebra 1::06 Subgroups
