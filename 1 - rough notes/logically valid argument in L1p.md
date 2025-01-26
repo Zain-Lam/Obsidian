@@ -5,4 +5,4 @@ Tags: [[Logically valid arguments]] [[logical definitions]]
 
 TD: YEAR1::TERM2::PH136 Logic 1
 Q: When is an $L_{1p}$ argument logically valid?
-A: _iff_ in a joint truth table, there is no row in which all the premises are T and the conclusion is F.
+A: _iff_ in a joint truth table, there is no row in which all the premises are T and the conclusion is F
