@@ -16,4 +16,10 @@ $$Then when we plug this back in we get $$
 
 &\quad=\sum_{i+j \leq 2m} \frac{x^i}{i!} \frac{y^j}{j!} - \sum_{i \leq m, j \leq m} \frac{x^i}{i!} \frac{y^j}{j!}
 \end{align}
-$$We can think about this geometrically as a triangle with side length $2m$ and subtracting the square of side length $m$. We want to prove that as $m$ tends to $\infty$ that the sum of these two triangles tends to $0$. We can consider one of these as the other will be the same but with the restrictions interchanged. One of these is$$ \sum_{i \geq m+1, \, i+j \leq 2m} \frac{x^i}{i!} \frac{y^j}{j!} $$which, by the triangle inequality is at most
+$$We can think about this geometrically as a triangle with side length $2m$ and subtracting the square of side length $m$. We want to prove that as $m$ tends to $\infty$ that the sum of these two triangles tends to $0$. We can consider one of these as the other will be the same but with the restrictions interchanged. One of these is$$ \sum_{i \geq m+1, \, i+j \leq 2m} \frac{x^i}{i!} \frac{y^j}{j!} $$which, by the triangle inequality is at most $$
+\sum_{i \geq m+1, \, i+j \leq 2m} \frac{|x|^i}{i!} \cdot \frac{|y|^j}{j!}
+$$since all of these terms are positive, we can add more positive terms and introduce an inequality $$
+\sum_{i \geq m+1, \, i+j \leq 2m} \frac{|x|^i}{i!} \cdot \frac{|y|^j}{j!} \leq \sum_{i \geq m+1, \, j \geq 0} \frac{|x|^i}{i!} \cdot \frac{|y|^j}{j!}
+$$geometrically, this is considering a rectangle that contains the needed triangle, and the rectangle can be rewritten as $$
+\left( \sum_{i \geq m+1} \frac{|x|^i}{i!} \right) \cdot \left( \sum_{j=0}^\infty \frac{|y|^j}{j!} \right)
+$$the first of which tends to $0$ as $m \to \infty$ and the second is $e^{|y|}$.
