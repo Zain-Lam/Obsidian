@@ -1,6 +1,6 @@
 2025-01-29 17:53
 Status: 
-Tags: [[Power Series]]
+Tags: [[Power Series]] [[definition of the exponential]] 
 # Logarithm Definition
 
 TD: YEAR1::TERM2::MA139 Analysis 2::01 Power Series 1
