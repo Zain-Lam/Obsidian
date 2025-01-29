@@ -10,3 +10,4 @@ $$
 e^p = \exp(p \log(e)).
 $$
 Now we know that $\log(e) = 1$, so the second expression is $\exp(p)$.
+<!--ID: 1738190627385-->
