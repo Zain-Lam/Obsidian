@@ -8,3 +8,4 @@ Q: Define the exponential for $x \in \mathbb{R}$
 A: $$
 1+x+\frac{x^{2}}{2!}\dots+\frac{x^{n}}{n!}+\dots
 $$this sum is called $\exp x$.
+<!--ID: 1738168359455-->

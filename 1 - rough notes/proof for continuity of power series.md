@@ -13,6 +13,8 @@ The partial sum $\sum_{n=0}^N a_n y^n$ is a polynomial in $y$ and polynomials ar
 $$
 \left\lvert \sum_{n=0}^N a_n y^n - \sum_{n=0}^N a_n x^n \right\rvert < \epsilon/3
 $$
+<!--ID: 1738168359452-->
+
 
 Therefore if we choose $\delta$ to be the smaller of $\delta_0$ and $T - \lvert x \rvert$ then if $\lvert y - x \rvert < \delta$ we get
 $$
