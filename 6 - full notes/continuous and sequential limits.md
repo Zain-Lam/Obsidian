@@ -13,3 +13,4 @@ iff for every sequence $(x_n)$ in $I \setminus \{c\}$ with $x_n \to c$, we have
 $$
 f(x_n) \to L.
 $$
+<!--ID: 1738192569071-->
