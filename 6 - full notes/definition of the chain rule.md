@@ -9,3 +9,4 @@ A: Suppose $I$ and $J$ are open intervals, $f: I \to \mathbb{R}$ and $g: J \to I
 $$
 (f \circ g)'(c) = f'(g(c)) \cdot g'(c).
 $$
+<!--ID: 1738273520991-->
