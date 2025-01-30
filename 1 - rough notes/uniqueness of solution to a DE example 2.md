@@ -14,3 +14,4 @@ $$
 g'(x) = x f'(x) + f(x) - 2x = x \left( f'(x) + \frac{1}{x} f(x) - 2 \right) = 0.
 $$
 So $g$ is constant $A$ (say), and the formula for $f$ follows.
+<!--ID: 1738278482682-->
