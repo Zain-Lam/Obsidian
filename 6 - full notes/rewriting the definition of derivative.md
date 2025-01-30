@@ -8,3 +8,5 @@ Q: How do we rewrite the derivative at c
 A: $$
 f'(c) = \lim_{x \to c} \frac{f(x) - f(c)}{x - c}
 $$
+<!--ID: 1738255776940-->
+
