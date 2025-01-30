@@ -10,3 +10,4 @@ $$
 x \mapsto f(c) + f'(c)(x - c),
 $$
 which is the first Taylor approximation to $f$.
+<!--ID: 1738274323070-->
