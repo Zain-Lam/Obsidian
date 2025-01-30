@@ -26,3 +26,4 @@ $$
 \frac{f(g(x)) - f(g(c))}{x - c} \to f'(g(c)) \cdot g'(c),
 $$
 as required.
+<!--ID: 1738274922543-->
