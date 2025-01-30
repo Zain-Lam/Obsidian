@@ -7,5 +7,6 @@ TD: YEAR1::TERM2::MA139 Analysis 2::02 Limits and the derivative
 Q: Prove that if $f: I \to \mathbb{R}$ is differentiable on the open interval $I$ and $f'(x) = 0$ for all $x$ in the interval, then $f$ is constant on the interval.
 A: Suppose for contradiction $\exists a,b \in I$ s.t. $a<b$ and $f(a)\neq f(b)$, then by MVT $\exists c \in(a,b)$ s.t. 
 $$
-
-$$
+f'(c) = \frac{f(b) - f(a)}{b - a} \neq 0
+$$contradicting the hypothesis.
+<!--ID: 1738278095810-->
