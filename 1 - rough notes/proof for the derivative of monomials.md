@@ -10,3 +10,4 @@ $$
 f(x) + x f'(x) = x^n + x \cdot n x^{n-1} = (n + 1)x^n,
 $$
 completing the inductive step.
+<!--ID: 1738272114429-->
