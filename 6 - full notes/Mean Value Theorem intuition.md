@@ -8,5 +8,5 @@ Q: Intuition behind MVT
 A: The theorem says that between any pair of points $a$ and $b$, there is a third point $c$ where
 the slope of the curve $y = f(x)$ is equal to the slope of the chord joining $(a, f(a))$ and $(b, f(b))$.
 This is intuitively obvious on the picture below.
-![[Screenshot 2025-01-30 221344.png]] 
+![[Graph for MVT intuition.png]] 
 <!--ID: 1738275287825-->

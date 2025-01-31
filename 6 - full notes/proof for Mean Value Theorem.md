@@ -14,4 +14,6 @@ g(b) - g(a) = f(b) - f(a) - (b - a) \cdot \frac{f(b) - f(a)}{b - a} = 0.
 $$
 So by Rolle’s Theorem, there is a point $c$ where $g'(c) = 0$. It follows that$$
 f'(c) = \frac{f(b) - f(a)}{b - a}.
-$$The intuition behind this is altering $f(x)$
+$$The intuition behind this is altering $f(x)$ to $g(x)$ where $g(x)$ is a constant function.
+<!--ID: 1738279459203-->
+
