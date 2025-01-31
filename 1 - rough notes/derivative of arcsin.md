@@ -4,5 +4,5 @@ Tags: [[Power Series]]
 # derivative of arcsin
 
 TD: YEAR1::TERM2::MA139 Analysis 2::01 Power Series 1
-Q: 
+Q: Find the derivative of arcsinx
 A: 
