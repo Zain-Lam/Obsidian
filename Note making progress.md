@@ -1,7 +1,7 @@
 ## Alg 1:
 finished 6.4
 ## Anal2:
-Proof of MVT
+Finished chap 2
 
 ## Modelling 2:
 page 5 example 3
