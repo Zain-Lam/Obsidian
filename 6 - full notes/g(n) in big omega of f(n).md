@@ -5,5 +5,6 @@ Tags: [[DM2 Problems and Algorithms]]
 
 TD: YEAR1::TERM2::CS147 Discrete Maths 2::01 
 Q: When is $g(n) ∈ \Omega f(n)$ (Big Omega of f(n))
-A: if $\exists c>0,N \in \mathbb{N}:g(n) \geq cf(n)\forall n>N$  
+?
+A:if $\exists c>0,N \in \mathbb{N}:g(n) \geq cf(n)\forall n>N$  
 <!--ID: 1736625901003-->

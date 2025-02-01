@@ -5,5 +5,6 @@ Tags: [[Groups]] [[Group properties]]
 
 TD: YEAR1::TERM1::MA151 Algebra 1::03 Groups
 Q: Define closure on a group
-A: $\forall a,b \in G, a\star b \in G$ 
+?
+A:$\forall a,b \in G, a\star b \in G$ 
 <!--ID: 1736268469856-->

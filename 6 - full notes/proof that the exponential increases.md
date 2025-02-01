@@ -5,7 +5,8 @@ Tags: [[Power Series]]
 
 TD: YEAR1::TERM2::MA139 Analysis 2::01 Power Series 1
 Q: Prove that the exponential function is strictly increasing with a range of $(0,\infty)$
-A: If we have $x < y$. Then
+?
+A:If we have $x < y$. Then
 $$
 e^y = e^{y-x} e^x \geq (1 + y - x)e^x > e^x.
 $$

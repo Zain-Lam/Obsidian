@@ -5,7 +5,8 @@ Tags: [[Limits of functions and the derivative]]
 
 TD: YEAR1::TERM2::MA139 Analysis 2::02 Limits and the derivative
 Q: Using the local linearisation lemma, prove the chain rule.
-A: $f$ is differentiable at $g(c)$, so for all $y$,
+?
+A:$f$ is differentiable at $g(c)$, so for all $y$,
 $$
 f(y) - f(g(c)) = f'(g(c))(y - g(c)) + \varepsilon(y)(y - g(c)),
 $$

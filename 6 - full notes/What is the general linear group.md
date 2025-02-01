@@ -5,5 +5,6 @@ Tags: [[Groups]]
 
 TD: YEAR1::TERM1::MA151 Algebra 1::03 Groups
 Q: What is the linear general group?
-A: $GL_{2}\mathbb{R}$ is the linear general group, and it is a group under multiplication of matrices.
+?
+A:$GL_{2}\mathbb{R}$ is the linear general group, and it is a group under multiplication of matrices.
 <!--ID: 1736270820292-->

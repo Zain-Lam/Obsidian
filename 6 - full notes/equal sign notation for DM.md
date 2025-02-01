@@ -5,5 +5,6 @@ Tags: [[DM2 Asymptotic notation and summations]]
 
 TD: YEAR1::TERM2::CS147 Discrete Maths 2::01 
 Q: What do we mean by $g(n) = \mathcal O(f(n))$
-A: it is used to denote $g(n) \in \mathcal O(f(n))$ 
+?
+A:it is used to denote $g(n) \in \mathcal O(f(n))$ 
 <!--ID: 1736770745523-->

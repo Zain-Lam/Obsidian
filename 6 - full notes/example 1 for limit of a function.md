@@ -13,5 +13,6 @@ f(x) =
 \end{cases}
 $$
 Then what is $\lim_{x \to 0}f(x)$
-A: $0$.
+?
+A:$0$.
 <!--ID: 1738190627401-->

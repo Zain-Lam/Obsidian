@@ -5,7 +5,8 @@ Tags: [[Limits of functions and the derivative]]
 
 TD: YEAR1::TERM2::MA139 Analysis 2::02 Limits and the derivative
 Q: Prove MVT
-A: Consider the function given by
+?
+A:Consider the function given by
 $$
 g(x) = f(x) - x \cdot \frac{f(b) - f(a)}{b - a}.
 $$Then we have

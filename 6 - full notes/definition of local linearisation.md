@@ -5,7 +5,8 @@ Tags: [[Limits of functions and the derivative]]
 
 TD: YEAR1::TERM2::MA139 Analysis 2::02 Limits and the derivative
 Q: Define local linearisation.
-A: If $I$ is an open interval with $f: I \to \mathbb{R}$, and $c \in I$. Then $f$ is differentiable at $c$ _iff_  $\exists A$ and a function $\varepsilon$ with the properties that  $\forall x$,
+?
+A:If $I$ is an open interval with $f: I \to \mathbb{R}$, and $c \in I$. Then $f$ is differentiable at $c$ _iff_  $\exists A$ and a function $\varepsilon$ with the properties that  $\forall x$,
 $$
 f(x) - f(c) = A(x - c) + \varepsilon(x)(x - c),
 $$

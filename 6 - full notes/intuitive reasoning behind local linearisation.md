@@ -5,7 +5,8 @@ Tags: [[Limits of functions and the derivative]]
 
 TD: YEAR1::TERM2::MA139 Analysis 2::02 Limits and the derivative
 Q: What is the intuitive reasoning behind the local linearisation lemma?
-A: The lemma says that if $x$ is close to $c$, then $f(x)$ is approximately given by the linear function
+?
+A:The lemma says that if $x$ is close to $c$, then $f(x)$ is approximately given by the linear function
 $$
 x \mapsto f(c) + f'(c)(x - c),
 $$

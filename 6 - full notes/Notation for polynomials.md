@@ -5,5 +5,6 @@ Tags: [[Sets and Binary Operations]]
 
 TD: YEAR1::TERM1::MA151 Algebra 1::02 Sets and Binary Operations
 Q: What is meant by $\mathbb{R}[x]$
-A: set of polynomials in x, with real coefficients.
+?
+A:set of polynomials in x, with real coefficients.
 <!--ID: 1736266479995-->

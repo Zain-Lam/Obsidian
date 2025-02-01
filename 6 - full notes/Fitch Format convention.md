@@ -5,7 +5,8 @@ Tags: [[Logically valid arguments]]
 
 TD: YEAR1::TERM2::PH136 Logic 1
 Q: What is the notation convention for a Fitch Format argument?
-A: $$
+?
+A:$$
 \begin{array} {|c}
 \text{premise 1} \\
 \vdots \\

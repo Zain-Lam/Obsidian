@@ -5,7 +5,8 @@ Tags: [[Curves and their Parametrisations]]
 
 TD: YEAR1::TERM2::MA144 Modelling 2::01 Curves and their parametrisations 
 Q: Find the Cartesian equation of the curve parametrised by $\mathbf{r}(t) = (3 \cos t, 2 \sin t)$, where $t \in [0, 2\pi]$. Sketch the curve.
-A: We use the identity $\sin^{2}\theta+\cos^{2}\theta=1$, so since$$
+?
+A:We use the identity $\sin^{2}\theta+\cos^{2}\theta=1$, so since$$
 \left.
 \begin{array}{rcl}
 x &=& 3 \cos t, \\

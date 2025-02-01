@@ -5,7 +5,8 @@ Tags: [[DM2 Bubble Sort]]
 
 TD: YEAR1::TERM2::CS147 Discrete Maths 2::03
 Q: What's the pseudo-code for bubble sort?
-A: $$ \begin{array}{ll}
+?
+A:$$ \begin{array}{ll}
 1: & \text{for } i = 1 ,\dots, n - 1 \text{ do} \\
 2: & \quad \text{for } j = 1,\dots, n - i \text{ do} \\
 3: & \quad \quad \text{if } A[j] > A[j + 1] \text{ then} \\

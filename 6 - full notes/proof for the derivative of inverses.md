@@ -5,7 +5,8 @@ Tags: [[Power Series]]
 
 TD: YEAR1::TERM2::MA139 Analysis 2::01 Power Series 1
 Q: Prove the derivatives of inverses theorem.
-A: Since $f$ has positive derivative, it is continuous and strictly increasing. Therefore, it
+?
+A:Since $f$ has positive derivative, it is continuous and strictly increasing. Therefore, it
 has a continuous inverse. Let $(c, d)$ be the range of $f$, let $x$ be in the interval $(c, d)$, and $g(x) = y$. We want to calculate
 $$
 \lim_{u \to x} \frac{g(u) - g(x)}{u - x}.

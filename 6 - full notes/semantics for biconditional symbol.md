@@ -5,7 +5,8 @@ Tags: [[Formal Language, intro to L1]]
 
 TD: YEAR1::TERM2::PH136 Logic 1
 Q: What are the semantics for $(\phi\leftrightarrow \psi)$
-A: $(\phi\leftrightarrow \psi)$ is true _iff_ $\phi$ and $\psi$ both have the same truth values.
+?
+A:$(\phi\leftrightarrow \psi)$ is true _iff_ $\phi$ and $\psi$ both have the same truth values.
 $$
 \begin{array}{c|c||c}
 \phi & \psi & (\phi \leftrightarrow \psi) \\

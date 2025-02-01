@@ -5,7 +5,8 @@ Tags: [[Limits of functions and the derivative]]
 
 TD: YEAR1::TERM2::MA139 Analysis 2::02 Limits and the derivative
 Q: Define the limit of a function at infinity
-A: If $f: \mathbb{R} \to \mathbb{R}$, we write
+?
+A:If $f: \mathbb{R} \to \mathbb{R}$, we write
 $$
 \lim_{x \to \infty} f(x) = L
 $$

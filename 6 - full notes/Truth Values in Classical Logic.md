@@ -5,5 +5,6 @@ Tags: [[Logically valid arguments]]
 
 TD: YEAR1::TERM2::PH136 Logic 1
 Q: What are the two truth values?
-A: _true_ and _false_ 
+?
+A:_true_ and _false_ 
 <!--ID: 1736530610595-->

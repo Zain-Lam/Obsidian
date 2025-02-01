@@ -6,7 +6,8 @@ Tags: [[Curves and their Parametrisations]]
 TD: YEAR1::TERM2::MA144 Modelling 2::01 Curves and their parametrisations 
 Q: Find the Cartesian equation of the curve parametrized  
 by  $$ \mathbf{r}(t) = (2 \sinh t, \cosh t), \quad t \in \mathbb{R}. $$Sketch the curve.
-A: We use the identity  $\cosh^2 t - \sinh^2 t = 1$ so,
+?
+A:We use the identity  $\cosh^2 t - \sinh^2 t = 1$ so,
 $$
 \left.
 \begin{array}{rcl}

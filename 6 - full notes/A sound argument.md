@@ -5,5 +5,6 @@ Tags: [[Logically valid arguments]]
 
 TD: YEAR1::TERM2::PH136 Logic 1
 Q: When is an argument sound?
-A: it is __sound__ _iff_ it is both logically valid and all its premises are true
+?
+A:it is __sound__ _iff_ it is both logically valid and all its premises are true
 <!--ID: 1736534479135-->
