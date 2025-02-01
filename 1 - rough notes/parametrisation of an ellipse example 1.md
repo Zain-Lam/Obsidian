@@ -13,5 +13,7 @@ y &=& 2 \sin t
 \end{array}
 \right\}
 \implies \left(\frac{x}{3}\right)^2 + \left(\frac{y}{2}\right)^2 = 1.
-$$![[MA144 Modelling 2 Ellipse Parametrisation.png]]
+$$![[MA144 Modelling 2 Ellipse Parametrisation example 1.png]]
+<!--ID: 1738413138597-->
+
 
