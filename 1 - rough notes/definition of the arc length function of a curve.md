@@ -5,4 +5,8 @@ Tags: [[Differentiation and arc length]]
 
 TD: YEAR1::TERM2::MA144 Modelling 2::02 Differentiation and arc length
 Q: What is the arc length _function_ of a curve
-A: 
+A: $$
+s(t) = \int_{t_0}^{t} \left| \mathbf{r}'(u) \right| \, du,
+$$for some constant $t_{0}$
+<!--ID: 1738428513308-->
+
