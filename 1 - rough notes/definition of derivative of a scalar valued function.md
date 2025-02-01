@@ -1,6 +1,6 @@
 2025-02-01 14:16
 Status: 
-Tags: [[Differentiation and arc length]] [[definition of the derivative]]
+Tags: [[Differentiation and arc length]] [[definition of the derivative]] 
 # definition of derivative of a scalar valued function
 
 TD: YEAR1::TERM2::MA144 Modelling 2::02 Differentiation and arc length
