@@ -9,8 +9,7 @@ $$
 f'(x) = f(x)
 $$
 are the functions $f(x) = A e^x$ for some constant $A$
-?
-A:Since $e^x$ is differentiable and is its own derivative. Suppose $f$ is such a solution, and let $g(x) = e^{-x} f(x)$.
+A: Since $e^x$ is differentiable and is its own derivative. Suppose $f$ is such a solution, and let $g(x) = e^{-x} f(x)$.
 Then, by the chain rule, we have
 $$
 g'(x) = -e^{-x} f(x) + e^{-x} f'(x) = e^{-x} \big( -f(x) + f'(x) \big) = 0.

@@ -7,8 +7,7 @@ TD: YEAR1::TERM2::MA139 Analysis 2::02 Limits and the derivative
 Q: prove that $$
 \lim_{x \to 1} \frac{x^2 - 1}{x - 1} = 2.
 $$
-?
-A:As long as $x \neq 1$ then,#
+A: As long as $x \neq 1$ then,#
 $$
 \frac{x^2 - 1}{x - 1} = x + 1,
 $$

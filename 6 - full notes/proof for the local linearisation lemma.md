@@ -5,8 +5,7 @@ Tags: [[Limits of functions and the derivative]]
 
 TD: YEAR1::TERM2::MA139 Analysis 2::02 Limits and the derivative
 Q: Prove the local linearisation lemma
-?
-A:If the condition holds, then  we divide through by $(x-c)$, given $x\neq c$, then
+A: If the condition holds, then  we divide through by $(x-c)$, given $x\neq c$, then
 $$
 \frac{f(x) - f(c)}{x - c} = A + \varepsilon(x),
 $$

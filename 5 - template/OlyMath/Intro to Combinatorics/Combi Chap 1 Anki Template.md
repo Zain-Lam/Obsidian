@@ -5,5 +5,4 @@ Tags: [[Introduction to Combinatorics Chap 1]]
 
 TD: OLYMATH::Intro to Combinatorics::Chap 1
 Q: 
-?
-A:
+A: 

@@ -5,8 +5,7 @@ Tags: [[Power Series]]
 
 TD: YEAR1::TERM2::MA139 Analysis 2::01 Power Series 1
 Q: Find the derivative of arcsinx
-?
-A:Let $f: \left[-\frac{\pi}{2}, \frac{\pi}{2}\right] \to [-1, 1]$ be the function$$
+A: Let $f: \left[-\frac{\pi}{2}, \frac{\pi}{2}\right] \to [-1, 1]$ be the function$$
 x \mapsto \sin x,
 $$and $g$ the inverse sine. Then
 $$

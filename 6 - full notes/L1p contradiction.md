@@ -5,6 +5,5 @@ Tags: [[logical definitions]]
 
 TD: YEAR1::TERM2::PH136 Logic 1
 Q: When is an $L_{1p}$ sentence a contradiction?
-?
-A:_iff_ there is no row in its truth table in which it is T
+A: _iff_ there is no row in its truth table in which it is T
 <!--ID: 1737823991951-->

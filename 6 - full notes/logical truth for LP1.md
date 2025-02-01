@@ -5,6 +5,5 @@ Tags: [[logical definitions]]
 
 TD: YEAR1::TERM2::PH136 Logic 1
 Q: When is an $L_{1p}$ sentence a logical truth?
-?
-A:No row in its truth table has an F.
+A: No row in its truth table has an F.
 <!--ID: 1737823991964-->

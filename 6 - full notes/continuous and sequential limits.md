@@ -5,8 +5,7 @@ Tags: [[Limits of functions and the derivative]]
 
 TD: YEAR1::TERM2::MA139 Analysis 2::02 Limits and the derivative
 Q: State the theorem for continuous and sequential limits
-?
-A:If $f: I \setminus \{c\} \to \mathbb{R}$ is defined on the interval $I$ except at $c \in I$, then
+A: If $f: I \setminus \{c\} \to \mathbb{R}$ is defined on the interval $I$ except at $c \in I$, then
 $$
 \lim_{x \to c} f(x) = L
 $$

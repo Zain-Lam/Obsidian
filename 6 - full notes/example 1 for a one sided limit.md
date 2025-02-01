@@ -17,8 +17,7 @@ Then what are
 $$
 \lim_{x \to 0^+} f(x) \quad, \quad \lim_{x \to 0^-} f(x).
 $$
-?
-A:$$
+A: $$
 \lim_{x \to 0^+} f(x) = 1
 \quad\quad
 \lim_{x \to 0^-} f(x) = 0.

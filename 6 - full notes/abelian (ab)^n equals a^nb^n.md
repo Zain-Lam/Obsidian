@@ -5,8 +5,7 @@ Tags: [[First Theorems and Notation in Alg 1]]
 
 TD: YEAR1::TERM1::MA151 Algebra 1::04 First Theorems and Notation
 Q: Prove that if $G$ is abelian, $a, b ∈ G$ and $n$ an integer then $(ab)^n = a^ n b^ n$ .
-?
-A:Suppose $n$ is positive and $G$ is abelian.
+A: Suppose $n$ is positive and $G$ is abelian.
 Then$$
 (ab)^n = \underbrace{ab \cdots ab}_{n \text{ times}} = \underbrace{aa \cdots a}_{n \text{ times}} \underbrace{bb \cdots b}_{n \text{ times}} = a^n b^n.
 $$Note that the expressions either side of the second equals sign are the same only because $G$ is abelian.

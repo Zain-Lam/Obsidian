@@ -5,8 +5,7 @@ Tags: [[Power Series]]
 
 TD: YEAR1::TERM2::MA139 Analysis 2::01 Power Series 1
 Q: Prove that $\exp(p) = e^p$ $\forall$ $p \in \mathbb{R}$
-?
-A:By definition of the power,
+A: By definition of the power,
 $$
 e^p = \exp(p \log(e)).
 $$

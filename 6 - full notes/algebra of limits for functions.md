@@ -5,8 +5,7 @@ Tags: [[Limits of functions and the derivative]]
 
 TD: YEAR1::TERM2::MA139 Analysis 2::02 Limits and the derivative
 Q: State the algebra of limits for functions
-?
-A:If $f, g: I \setminus \{c\} \to \mathbb{R}$ are defined on the interval $I$ except maybe at $c \in I$, and $\lim_{x \to c} f(x)$ and $\lim_{x \to c} g(x)$ exist, then
+A: If $f, g: I \setminus \{c\} \to \mathbb{R}$ are defined on the interval $I$ except maybe at $c \in I$, and $\lim_{x \to c} f(x)$ and $\lim_{x \to c} g(x)$ exist, then
 <!--ID: 1738192569065-->
 
 

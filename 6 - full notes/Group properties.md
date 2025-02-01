@@ -5,8 +5,7 @@ Tags: [[Groups]]
 
 TD: YEAR1::TERM1::MA151 Algebra 1::03 Groups
 Q: What are the 4 properties of a group?
-?
-A:1) Closure
+A: 1) Closure
 2) Associativity
 3) Identity
 4) Inverses

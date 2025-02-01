@@ -9,8 +9,7 @@ $$
 f'(x) + \frac{1}{x} f(x) = 2
 $$
 are the functions $f(x) = \frac{A}{x} + x$ for some constant $A$.
-?
-A:Let $g(x) = x f(x) - x^2$ for positive $x$. Then
+A: Let $g(x) = x f(x) - x^2$ for positive $x$. Then
 $$
 g'(x) = x f'(x) + f(x) - 2x = x \left( f'(x) + \frac{1}{x} f(x) - 2 \right) = 0.
 $$

@@ -5,6 +5,5 @@ Tags: [[Sets and Binary Operations]]
 
 TD: YEAR1::TERM1::MA151 Algebra 1::02 Sets and Binary Operations
 Q: What is the basic definition of a set?
-?
-A:A set is simply a collection of objects
+A: A set is simply a collection of objects
 <!--ID: 1736263886073-->

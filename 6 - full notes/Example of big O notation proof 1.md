@@ -5,8 +5,7 @@ Tags: [[g(n) in big O of f(n)]] [[DM2 Asymptotic notation and summations]]
 
 TD: YEAR1::TERM2::CS147 Discrete Maths 2::01 
 Q: Given $f(n) = 2^{\sqrt {\ln n}}$ and $g(n) = n^{0.0001}$, check $f(n) = \mathcal O(g(n))$ and $f(n) \neq Ω(g(n))$
-?
-A:We prove $f(n) = \mathcal O(g(n))$, by definition, we need to find $c > 0$ and $n > N$ such that $f(n) ≤ cg(n)$. Here we assume $c ≥ 1$ without loss of generality. then:
+A: We prove $f(n) = \mathcal O(g(n))$, by definition, we need to find $c > 0$ and $n > N$ such that $f(n) ≤ cg(n)$. Here we assume $c ≥ 1$ without loss of generality. then:
 $$\begin{align}
 2^\sqrt{ \ln_{2} }≤ cn^{0.0001} &⇔ \sqrt{ \ln 2 } ≤ \ln c + 0.0001 \ln n \\
 &⇐ \sqrt{ \ln 2 } ≤ 0.0001 \ln n \\

@@ -5,5 +5,4 @@ Tags: [[DM2 Merge Sort]]
 
 TD: YEAR1::TERM2::CS147 Discrete Maths 2::04
 Q: 
-?
-A:
+A: 

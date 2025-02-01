@@ -5,8 +5,7 @@ Tags: [[Formal Language, intro to L1]]
 
 TD: YEAR1::TERM2::PH136 Logic 1
 Q: What are the semantics for the $\lor$ symbol?
-?
-A:$(\phi \lor \psi)$ is true _iff_ $\phi$ and/or $\psi$ are true
+A: $(\phi \lor \psi)$ is true _iff_ $\phi$ and/or $\psi$ are true
 $$
 \begin{array}{c|c||c}
 \phi & \psi & (\phi \lor \psi) \\

@@ -5,6 +5,5 @@ Tags: [[counterexample to an argument]]
 
 TD: YEAR1::TERM2::PH136 Logic 1
 Q: What is the relationship between invalidity and counterarguments?
-?
-A:An argument is logically _invalid_  _iff_ it has a counterexample.
+A: An argument is logically _invalid_  _iff_ it has a counterexample.
 <!--ID: 1737063214451-->

@@ -5,8 +5,7 @@ Tags: [[Limits of functions and the derivative]]
 
 TD: YEAR1::TERM2::MA139 Analysis 2::02 Limits and the derivative
 Q: Prove that $\lim_{x \to 0} \frac{1}{x^2} = \infty.$
-?
-A:Given $M > 0$, choose $\delta = \frac{1}{\sqrt{M}}$. Then if $0 < |x| < \delta = \frac{1}{\sqrt{M}}$, we have $0 < x^2 < \frac{1}{M}$, and it follows that
+A: Given $M > 0$, choose $\delta = \frac{1}{\sqrt{M}}$. Then if $0 < |x| < \delta = \frac{1}{\sqrt{M}}$, we have $0 < x^2 < \frac{1}{M}$, and it follows that
 $$
 \frac{1}{x^2} > M.
 $$

@@ -5,8 +5,7 @@ Tags: [[Limits of functions and the derivative]]
 
 TD: YEAR1::TERM2::MA139 Analysis 2::02 Limits and the derivative
 Q: Prove that differentiability at a point implies continuity at the point.
-?
-A:We know that
+A: We know that
 $$
 \frac{f(x) - f(c)}{x - c} \to f'(c) \quad \text{as} \quad x \to c.
 $$

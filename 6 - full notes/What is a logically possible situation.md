@@ -5,7 +5,6 @@ Tags: [[Logically valid arguments]]
 
 TD: YEAR1::TERM2::PH136 Logic 1
 Q: What is a logically possible situation?
-?
-A:Ways things actually are/ could have been
+A: Ways things actually are/ could have been
 Roughly: The situation can be fully described with no logical contradiction
 <!--ID: 1736531142431-->

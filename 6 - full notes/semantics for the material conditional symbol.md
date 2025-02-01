@@ -5,8 +5,7 @@ Tags: [[Formal Language, intro to L1]]
 
 TD: YEAR1::TERM2::PH136 Logic 1
 Q: What are the semantics for $(\phi \to \psi)$?
-?
-A:$(\phi \to \psi)$ is true _iff_ $\phi$ is false and/or $\psi$ is true.
+A: $(\phi \to \psi)$ is true _iff_ $\phi$ is false and/or $\psi$ is true.
 $$
 \begin{array}{c|c||c}
 \phi & \psi & (\phi \to \psi) \\

@@ -5,8 +5,7 @@ Tags: [[Rational and Irrational Numbers]]
 
 TD: YEAR1::TERM1::MA141 Analysis 1::01 Rational and Irrational Numbers
 Q: Define the absolute value function
-?
-A:$$
+A: $$
 |x| =
 \begin{cases}
 x,  & \text{if $0\leq x$} \\[1ex]

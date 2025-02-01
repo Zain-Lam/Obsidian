@@ -5,5 +5,4 @@ Tags:[[MA257 Intro to Number Theory]]
 
 TD: YEAR2::TERM2::MA257 Intro to Number Theory
 Q: 
-?
-A:
+A: 
