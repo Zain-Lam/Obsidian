@@ -4,4 +4,4 @@ finished 6.4
 Finished chap 2
 
 ## Modelling 2:
-need to do parametrisation of an ellipse
+finished chap 1
