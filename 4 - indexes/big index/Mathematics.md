@@ -1,3 +1,8 @@
+---
+"created: 2024-11-30": "created: 2024-11-30"
+---
+
+
 ## Analysis:
 [[Analysis]]
 
