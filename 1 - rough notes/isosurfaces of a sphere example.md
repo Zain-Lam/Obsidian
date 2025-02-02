@@ -1,6 +1,6 @@
 2025-02-02 17:02
 Status: 
-Tags: [[Partial Differentiation and Applications]]
+Tags: [[Partial Differentiation and Applications]] [[definition of level sets]]
 # isosurfaces of a sphere example
 
 TD: YEAR1::TERM2::MA144 Modelling 2::03 Partial Differentiation and applications
@@ -12,4 +12,8 @@ T&=1,\quad x^{2}+y^{2}+z^{2}=1 \\
 T&=2,\quad x^{2}+y^{2}+z^{2}=2
 \end{align}
 $$
-So we can see that these describe sphere's centred around the origin
+So we can see that these describe sphere's centred around the origin![[MA144 Mod 2 Spheres Isosurfaces sketch sketch.png]]
+<!--ID: 1738516268059-->
+
+
+

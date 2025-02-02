@@ -1,6 +1,6 @@
 2025-02-02 16:27
 Status: 
-Tags: [[Partial Differentiation and Applications]]
+Tags: [[Partial Differentiation and Applications]] [[definition of level sets]]
 # plane sketch example 1, finding contours
 
 TD: YEAR1::TERM2::MA144 Modelling 2::03 Partial Differentiation and applications
