@@ -1,6 +1,6 @@
 2025-02-02 17:23
 Status: 
-Tags: [[Partial Differentiation and Applications]] [[def dif]]
+Tags: [[Partial Differentiation and Applications]] [[definition of derivative of a scalar valued function]] [[definition of the derivative]]
 # definition of partial derivatives for 2 variables
 
 TD: YEAR1::TERM2::MA144 Modelling 2::03 Partial Differentiation and applications
