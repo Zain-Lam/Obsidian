@@ -16,3 +16,5 @@ $$then when we take the length we get $$
 \left|\frac{du}{ds}\right|&=1
 \end{align*}
 $$
+so we get that $u=\pm s +c$ where $c$ is just a shift in the parameter value, and the $\pm$ is change in orientation.
+<!--ID: 1738507390484-->
