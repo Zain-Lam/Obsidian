@@ -12,5 +12,6 @@ f=3 &\Rightarrow &3x+2y&=3 \\
 f=6 &\Rightarrow &3x+2y&=0
 \end{align}
 $$giving us the ___contours___ of these lines
-![[Pasted image 20250202163751.png]]
-<!--ID: 1738514319777-->
+![[MA144 Mod 2 plane sketch example 1 contours.png]]
+<!--ID: 1738514516081-->
+
