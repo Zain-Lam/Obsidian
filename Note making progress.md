@@ -4,4 +4,4 @@ finished 6.4
 Finished chap 2
 
 ## Modelling 2:
-definition of grad operator
+finished chap 3
