@@ -9,3 +9,4 @@ A: $$
 f(x,y)\approx f(a,b)+\frac{\partial f}{\partial x}\Big|_{(a,b)}(x-a)+\frac{\partial f}{\partial y}\Big|_{(a,b)}(y-b)
 $$
 so the function is well approximated by a plane
+<!--ID: 1738684724833-->

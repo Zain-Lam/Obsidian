@@ -6,3 +6,5 @@ Tags: [[Geometry and applications]]
 TD: YEAR1::TERM2::MA144 Modelling 2::04 Geometry and Applications
 Q: What is the linear approximation of the $f(x)$ for $x$ near $a$?
 A: $f(x)\approx f(a)+f'(a)(x-a)$
+<!--ID: 1738684724836-->
+
