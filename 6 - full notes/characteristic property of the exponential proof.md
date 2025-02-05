@@ -13,9 +13,6 @@ By binomial theorem $$
 $$Then when we plug this back in we get $$
 \begin{align}
 &\sum_{m=0}^{2m} \frac{(x + y)^k}{k!} - \left(\sum_{0}^{m}\frac{x^i}{i!} \right) \left(\sum_{j=0}^{m} \frac{y^j}{j!}\right) \\ \\
-<!--ID: 1738172581029-->
-
-
 &\quad=\sum_{i+j \leq 2m} \frac{x^i}{i!} \frac{y^j}{j!} - \sum_{i \leq m, j \leq m} \frac{x^i}{i!} \frac{y^j}{j!}
 \end{align}
 $$We can think about this geometrically as a triangle with side length $2m$ and subtracting the square of side length $m$. We want to prove that as $m$ tends to $\infty$ that the sum of these two triangles tends to $0$. We can consider one of these as the other will be the same but with the restrictions interchanged. One of these is$$ \sum_{i \geq m+1, \, i+j \leq 2m} \frac{x^i}{i!} \frac{y^j}{j!} $$which, by the triangle inequality is at most $$
@@ -25,3 +22,4 @@ $$since all of these terms are positive, we can add more positive terms and intr
 $$geometrically, this is considering a rectangle that contains the needed triangle, and the rectangle can be rewritten as $$
 \left( \sum_{i \geq m+1} \frac{|x|^i}{i!} \right) \cdot \left( \sum_{j=0}^\infty \frac{|y|^j}{j!} \right)
 $$the first of which tends to $0$ as $m \to \infty$ and the second is $e^{|y|}$.
+<!--ID: 1738768670902-->
