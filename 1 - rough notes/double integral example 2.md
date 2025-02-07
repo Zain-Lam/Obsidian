@@ -13,5 +13,4 @@ A &= \int_{y=0}^{4} \int_{x=\frac{y}{2}}^{\sqrt{ y }} \mathrm{d}x \, \mathrm{d}y
 &=\left[ \frac{2}{3}y^{\frac23}- \frac{y^{2}}{4} \right]^{4}_{0}=\frac{4}{3}
 \end{align}
 $$
-
 <!--ID: 1738945748378-->
