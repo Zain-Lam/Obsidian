@@ -7,3 +7,5 @@ TD: YEAR1::TERM2::MA144 Modelling 2::04 Geometry and Applications
 Q: Consider the surface defined by $x^{2}+y^{2}-z^{2}=1$
 Name the surface and give a sketch.
 A: This surface is known as a hyperboloid of 1 sheet
+![[MA144 Mod 2 Sketch of hyperboloid.png]]
+<!--ID: 1738928033262-->
