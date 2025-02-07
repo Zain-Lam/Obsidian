@@ -19,3 +19,5 @@ x'(0) \\
 y'(0) 
 \end{pmatrix} = 0.
 $$showing that $\nabla F$ is perpendicular to the tangent of the 2d curve
+<!--ID: 1738926307818-->
+
