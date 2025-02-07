@@ -15,7 +15,7 @@ and since we know "$\nabla G$ is normal to $G=$ constant" we work out the grad f
 2\cos (x+y) \\
 -1
 \end{pmatrix} \\
- \\
+\\
 \nabla G_{(0,0,0)}&=\begin{pmatrix}
 3 \\
 2  \\

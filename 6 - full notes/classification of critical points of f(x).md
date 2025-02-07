@@ -13,3 +13,5 @@ f''(c) &= 0 \quad \rightarrow \quad \text{inconclusive}
 \end{align*}
 $$Note that the converse isn't necessarily true
 e,g $f(x)=x^{4}$
+<!--ID: 1738931338798-->
+
