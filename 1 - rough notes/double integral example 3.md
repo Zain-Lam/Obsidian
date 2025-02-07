@@ -1,7 +1,7 @@
 2025-02-07 16:55
 Status: 
 Tags: [[Cartesian Coordinates]]
-# double integral 3
+# double integral example 3
 
 TD: YEAR1::TERM2::MA144 Modelling 2::05 Cartesian Coordinates
 Q: Evaluate $$
