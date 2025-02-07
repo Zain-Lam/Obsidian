@@ -9,4 +9,5 @@ A: The steps for $x$ and $y$ can be interchanged
 1) Find the range of all possible values for $x$, this must be in terms of _numbers_
 2) If the $x$ value is fixed, what value must $y$ take to sweep out the area?
 3) Use these to fill in the integration limits
-4) **
+4) **CHECK** that the outermost limits are numbers
+<!--ID: 1738944085467-->
