@@ -7,4 +7,5 @@ TD: YEAR1::TERM2::MA144 Modelling 2::05 Cartesian Coordinates
 Q: Evaluate $$
 \int_0^{\pi/2} \int_0^y y \cos x \, dx \, dy
 $$
-A: 
+A: 1
+<!--ID: 1739031784027-->
