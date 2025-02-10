@@ -1,4 +1,4 @@
-2025-02-08 17:07
+a2025-02-08 17:07
 Status: 
 Tags: [[Cartesian Coordinates]]
 # centre of mass using a triple integral
