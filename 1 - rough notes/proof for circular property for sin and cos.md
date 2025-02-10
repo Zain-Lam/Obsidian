@@ -10,3 +10,4 @@ A: Set $y = -x$ in the addition formula for $\cos$. We know that $\cos(-x) = \co
 &= \cos x \cos(-x) - \sin x \sin(-x) \\
 &= \cos^2 x + \sin^2 x.
 \end{align}$$as required
+<!--ID: 1739193658504-->
