@@ -5,11 +5,14 @@ Tags: [[Column Vectors in Real to n]] [[Group identity existence]]
 
 TD: YEAR1::TERM2::MA150 Algebra 2::01 Column Vectors in Real^n 
 Q: What is the identity element when you take $\mathbb{R}^{n}$ with the binary operation $+$
-A:  The identity element $\mathbf{0} = 
+A:  The identity element is $$\mathbf{\underline{0}} = 
 \begin{pmatrix} 
 0 \\ 
 0 \\ 
 \vdots \\ 
 0 
 \end{pmatrix} 
-\in \mathbb{R}^n.
+\in \mathbb{R}^n
+$$
+<!--ID: 1739285810699-->
+
