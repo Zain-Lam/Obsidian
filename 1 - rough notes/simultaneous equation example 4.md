@@ -16,3 +16,5 @@ A: This is equivalent to solving the system of equations $$
 $$We solve this by first eliminating one of our variables getting
 $3\lambda_{2}+5\lambda_{3}=0$
 we can then arbitrarily pick $\lambda_{3}\in \mathbb{R}$ and then let $\lambda_{2}= \frac{-5}{3}\lambda_{3}$ 
+then we calculate $\lambda_{1}$ using one of the equations, then we have to check that it satisfies the other.
+<!--ID: 1739290139360-->
