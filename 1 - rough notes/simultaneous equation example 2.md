@@ -16,4 +16,6 @@ A: This is equivalent to solving the system of simultaneous equations $$
 3\lambda_{1} + \lambda_{2} &= 3
 \end{align*}
 $$Add the first two equations to show that if there are any solutions then they must satisfy $\lambda_{1}=2$, when we sub this into the first equation to get $\lambda_{2}=-3$
-we must __REMEMBER TO CHECK__ that this sati
+we must __REMEMBER TO CHECK__ that this satisfies all the equations, which it does so the system has a _unique solution_.
+<!--ID: 1739288487471-->
+
