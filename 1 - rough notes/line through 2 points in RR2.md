@@ -1,7 +1,7 @@
 2025-02-12 16:54
 Status: 
 Tags: [[Column Vectors in Real to n]]
-# line through 2 point in RR^2 
+# line through 2 points in RR^2 
 
 TD: YEAR1::TERM2::MA150 Algebra 2::01 Column Vectors in Real^n 
 Q: What is the equation of the line $L_{PQ} \subset \mathbb{R}^2$ through the points $P = \begin{pmatrix} -2 \\ 1 \end{pmatrix}$ and $Q = \begin{pmatrix} 4 \\ 3 \end{pmatrix}$?
