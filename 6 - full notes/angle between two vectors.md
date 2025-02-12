@@ -8,3 +8,4 @@ Q: How do we define the angle between 2 non-zero vectors, using dot product and 
 A: Given 2 vectors $\underline{\mathbf{v}}, \underline{\mathbf{w}} \in \mathbb{R}^n \setminus \{\mathbf{0}\}$ we define the angle between these two vectors as $$
 \theta = \arccos \left( \frac{\underline{\mathbf{v}} \cdot \underline{\mathbf{w}}}{\lVert \underline{\mathbf{v}} \rVert \lVert \underline{\mathbf{w}} \rVert} \right)
 $$
+<!--ID: 1739367204518-->
