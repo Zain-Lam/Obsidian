@@ -1,6 +1,6 @@
 2025-02-01 15:18
 Status: 
-Tags: [[Differentiation and arc length]] [[sum and product rule for derivative]]
+Tags: [[Differentiation and arc length]] [[sum and product rule for derivative]] [[definition of dot product]]
 # product rule for differentiating dotted vector-valued functions
 
 TD: YEAR1::TERM2::MA144 Modelling 2::02 Differentiation and arc length
