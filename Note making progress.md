@@ -7,4 +7,4 @@ Trace speed equals 1
 cylinder example
 
 ## Alg 2:
-Cauchy Schwartz
+example 1.21
