@@ -12,4 +12,14 @@ $$
 \text{at } Q: & \quad &4a + 3b + 2c &= d
 \end{align}
 $$
-then cancel one variable, write another variable in terms of the other two
+then cancel one variable $(a)$, write another variable in terms of the other two $(b)$. Sub this into an equation to write the cancelled variable in terms of the other two.
+Then you can write the linear equation in terms of just two variables.$$
+\left( \frac{7}{10}c - \frac{1}{5}d \right) x + \left( \frac{8}{5}c + \frac{3}{5}d \right) y + cz = d
+$$
+Choose 2 pairs that aren't collinear then you have two equations that define the line $L_{PQ}$, for $c$ and $d$ the most sensible ones are $$
+\begin{align}
+c = 10, \, d = 0 &: \quad &7x + 16y + 10z &= 0 \\
+c = 0, \, d = 5 &: \quad &x + 3y&= 5
+\end{align}
+$$
+<!--ID: 1739381231572-->
