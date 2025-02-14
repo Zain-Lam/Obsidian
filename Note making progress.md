@@ -8,3 +8,6 @@ cylinder example
 
 ## Alg 2:
 3.1
+
+$\underline{\mathbf{v}}$ and $\underline{\mathbf{w}}$
+
