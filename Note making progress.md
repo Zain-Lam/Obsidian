@@ -7,6 +7,6 @@ Trace speed equals 1
 cylinder example
 
 ## Alg 2:
-3.1
+3.6
 
 
