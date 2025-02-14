@@ -7,3 +7,4 @@ TD: YEAR1::TERM2::MA150 Algebra 2::02 Linear Systems and matrices
 Q: What is the difference between a right inverse and a left inverse of the matrix $A \in \operatorname{Mat}_{m \times n}$
 A: If $BA = I_n$, then $B$ is said to be a left inverse.
 If $AC = I_m$, then $C$ is said to be a right inverse.
+<!--ID: 1739537626315-->
