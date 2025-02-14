@@ -9,3 +9,4 @@ A: 1) the first (i.e. leftmost) non-zero entry of any non-zero row is 1 (this is
 2) the leading 1 of a non-zero row appears (strictly) to the right of the leading 1s of the nonzero rows above it; 
 3) any zero rows appear below the non-zero rows; 
 4) in a column that contains the leading 1 of some row, all other entries of that column are zero.
+<!--ID: 1739540425191-->
