@@ -20,3 +20,17 @@ a_{1} \\
 a_{n}
 \end{pmatrix}
 $$
+Since $g$ is also a basis, the vector $\underline{\mathbf{w}}$ can be found with coefficients $b_{i}$ as it can be written as $Q_{g}\begin{pmatrix}b_{1} \\\vdots \\b_{n}\end{pmatrix}$ it follows that, $$
+\begin{pmatrix}
+b_{1} \\
+\vdots \\
+b_{n}
+\end{pmatrix}
+=Q_{g}^{-1}
+Q_{f}\begin{pmatrix}
+a_{1} \\
+\vdots \\
+a_{n}
+\end{pmatrix}
+$$Being careful of the order.
+<!--ID: 1739654001482-->
