@@ -10,3 +10,4 @@ A: We basically have to find the coefficients $\mu_1, \mu_2$ so that $\underline
 $$ \begin{pmatrix} -1 & 2 \\ 3 & -5 \end{pmatrix}^{-1}
 \begin{pmatrix} 1 & 1 \\ 1 & -2 \end{pmatrix} \begin{pmatrix} -3\\ 7\end{pmatrix}= \begin{pmatrix} 5 & 2 \\ 3 & 1 \end{pmatrix} \begin{pmatrix} 4 \\ -17 \end{pmatrix} = \begin{pmatrix} -14 \\ -5 \end{pmatrix} $$
 We should check this to be sure, and it works out.
+<!--ID: 1739654647272-->
