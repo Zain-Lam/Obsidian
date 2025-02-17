@@ -1,7 +1,7 @@
 2025-02-14 17:25
 Status: 
-Tags: [[Subspaces and Bases of RRn]]
-# definition of span
+Tags: [[Subspaces and Bases of RRn]] 
+# definition of span of two vectors
 
 TD: YEAR1::TERM2::MA150 Algebra 2::03 Subspaces and Bases of R^n 
 Q: Define the span of two vectors $\underline{\mathbf{v}}$ and $\underline{\mathbf{w}}$ and how to denote it.

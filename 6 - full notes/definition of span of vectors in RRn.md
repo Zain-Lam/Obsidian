@@ -1,6 +1,6 @@
 2025-02-14 23:16
 Status: 
-Tags: [[Subspaces and Bases of RRn]]
+Tags: [[Subspaces and Bases of RRn]] [[definition of span of a subset of a vector space]]
 # definition of span of vectors in RRn
 
 TD: YEAR1::TERM2::MA150 Algebra 2::03 Subspaces and Bases of R^n 

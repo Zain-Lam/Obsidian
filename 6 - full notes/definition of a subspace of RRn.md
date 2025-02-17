@@ -1,7 +1,7 @@
 2025-02-14 17:28
 Status: 
-Tags: [[Subspaces and Bases of RRn]]
-# definition of a subspace
+Tags: [[Subspaces and Bases of RRn]] [[definition of a subspace of a vector space]]
+# definition of a subspace of RRn
 
 TD: YEAR1::TERM2::MA150 Algebra 2::03 Subspaces and Bases of R^n 
 Q: How is a subspace defined?
