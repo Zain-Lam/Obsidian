@@ -1,7 +1,7 @@
 2025-02-15 11:34
 Status: 
-Tags: [[Subspaces and Bases of RRn]]
-# definition of linear independence
+Tags: [[Subspaces and Bases of RRn]] [[definition of linear independence of a subset of a vector space]]
+# definition of linear independence of vectors
 
 TD: YEAR1::TERM2::MA150 Algebra 2::03 Subspaces and Bases of R^n 
 Q: When are vectors $\underline{\mathbf{v}}_1, \ldots, \underline{\mathbf{v}}_s \in \mathbb{R}^n$ called linearly independent
