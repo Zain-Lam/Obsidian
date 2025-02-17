@@ -7,6 +7,7 @@ Trace speed equals 1
 cylinder example
 
 ## Alg 2:
-need to do lemma 4.3
+need to do sifting lemma proofs
+prop 4.15
 
 
