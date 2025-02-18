@@ -5,4 +5,5 @@ Tags: [[Linear maps in linalg]]
 
 TD: YEAR1::TERM2::MA150 Algebra 2::05 Linear Maps 
 Q: When is a linear map an isomorphism?
-A: 
+A: If it is also a bijection.
+<!--ID: 1739894072446-->
