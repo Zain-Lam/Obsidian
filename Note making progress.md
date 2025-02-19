@@ -8,6 +8,6 @@ cylinder example
 
 ## Alg 2:
 linear maps
-prop 5.9
+theorem 5.28
 
 
