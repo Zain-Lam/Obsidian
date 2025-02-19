@@ -9,3 +9,4 @@ A: If $A = (a_{ij}) \in \operatorname{Mat}_{m \times n}$ is a matrix, then there
 \varphi_A : V &\rightarrow W \\
 v_i &\mapsto a_{1i}w_1 + \ldots + a_{mi}w_m 
 \end{align}$$where the coefficients of $\varphi_A(v_i)$ with respect to the basis of $W$ are the $i$th column of $A$.
+<!--ID: 1739974134021-->
