@@ -7,7 +7,6 @@ Trace speed equals 1
 cylinder example
 
 ## Alg 2:
-linear maps
-theorem 5.28
+stated rank-nullity
 
 
