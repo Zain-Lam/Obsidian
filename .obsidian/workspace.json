@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "58773ce35fddbd9c",
+        "id": "9d05d777cd1920ef",
         "type": "tabs",
         "children": [
           {
-            "id": "e146522e68fb0a78",
+            "id": "92084685fdea904f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - rough notes/computing colspan using RCEF.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "computing colspan using RCEF"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200.50043487548828
   },
   "right": {
     "id": "24bd9c86cd741fcf",
@@ -154,6 +159,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e146522e68fb0a78",
-  "lastOpenFiles": []
+  "active": "92084685fdea904f",
+  "lastOpenFiles": [
+    "Note making progress.md"
+  ]
 }
