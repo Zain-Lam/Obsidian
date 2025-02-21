@@ -14,3 +14,4 @@ z &= \cos \phi
 $$and to translate the volume element we use $$
 dV=r^{2}\sin \phi\ \mathrm{d}r\ \mathrm{d\theta}\ \mathrm{d\phi}
 $$
+<!--ID: 1740142277764-->
