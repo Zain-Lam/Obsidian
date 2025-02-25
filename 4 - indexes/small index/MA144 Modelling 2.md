@@ -5,3 +5,4 @@
 [[Geometry and applications]]
 [[Cartesian Coordinates]]
 [[Integration with special coordinates]]
+[[Calculus of multivariable functions]]
