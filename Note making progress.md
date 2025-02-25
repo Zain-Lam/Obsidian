@@ -4,7 +4,7 @@ finished 6.4
 Trace speed equals 1
 
 ## Modelling 2:
-started week 8
+need to do line curve example 3
 
 ## Alg 2:
 stated rank-nullity
