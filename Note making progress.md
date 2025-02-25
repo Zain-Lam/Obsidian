@@ -4,7 +4,7 @@ finished 6.4
 Trace speed equals 1
 
 ## Modelling 2:
-need to start spherical coordinates
+started week 7
 
 ## Alg 2:
 stated rank-nullity
