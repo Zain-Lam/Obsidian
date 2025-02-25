@@ -1,6 +1,6 @@
 2025-02-04 07:35
 Status: 
-Tags: [[Partial Differentiation and Applications]]
+Tags: [[Partial Differentiation and Applications]] [[definition of a vector field]]
 # semantics of the grad operator
 
 TD: YEAR1::TERM2::MA144 Modelling 2::03 Partial Differentiation and applications
