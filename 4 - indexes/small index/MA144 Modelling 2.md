@@ -6,3 +6,4 @@
 [[Cartesian Coordinates]]
 [[Integration with special coordinates]]
 [[Calculus of multivariable functions]]
+[[Green's and Stokes' Theorems]]
