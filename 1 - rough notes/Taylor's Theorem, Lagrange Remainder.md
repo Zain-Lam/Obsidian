@@ -9,3 +9,4 @@ A: If $f : I \rightarrow \mathbb{R}$ is $n$ times differentiable on the open int
 f(b) = &f(a) + f'(a)(b - a) + \frac{f''(a)}{2}(b - a)^2 + \\
 &\cdots + \frac{f^{(n-1)}(a)}{(n - 1)!}(b - a)^{n-1} + \frac{f^{(n)}(t)}{n!}(b - a)^n 
 \end{align}$$for some point $t$ between $a$ and $b$.
+<!--ID: 1740581151617-->
