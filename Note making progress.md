@@ -1,5 +1,5 @@
 ## Alg 1:
-finished 6.4
+finished 7.1.1
 ## Anal2:
 Trace speed equals 1
 
