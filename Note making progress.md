@@ -7,6 +7,6 @@ Finished chap 4
 need to do line curve example 3
 
 ## Alg 2:
-stated rank-nullity
+lemma 5.32
 
 
