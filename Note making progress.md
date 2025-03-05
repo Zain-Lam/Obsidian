@@ -4,7 +4,8 @@ finished 7.1.1
 Finished chap 4
 
 ## Modelling 2:
-need to do line curve example 3
+need to do finish greens
+
 
 ## Alg 2:
 lemma 5.32
