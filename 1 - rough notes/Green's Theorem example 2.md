@@ -11,3 +11,4 @@ BO: Parametrize line as $\mathbf{r}(t) = (-t, -2t)$, $t \in [-1, 0]$
 Then $$
 \begin{align*} \int_{BO} \left( y^2 \frac{dx}{dt} + x y \frac{dy}{dt} \right) dt &= \int_{-1}^0 (4t^2(-1) + 2t^2(-2)) \, dt \\ &= -8 \int_{-1}^0 t^2 \, dt \\ &= -\frac{8}{3} \\ &= -\frac{2}{3} \end{align*}
 $$
+<!--ID: 1741440384142-->
