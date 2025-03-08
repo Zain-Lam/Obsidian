@@ -5,4 +5,6 @@ Tags: [[Green's and Stokes' Theorems]]
 
 TD: YEAR1::TERM2::MA144 Modelling 2::08 Green's and Stokes
 Q: What is pointwise circulation and how is it defined?
-A: 
+A: If $P$ lies on a surface $S$ with unit normal $\hat{n}$, the pointwise circulation refers to how much fluid is circling around $\hat{n}$.
+It is define by $\nabla \times F\cdot \hat{n}$.
+<!--ID: 1741442620299-->
