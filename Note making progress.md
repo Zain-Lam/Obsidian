@@ -4,7 +4,7 @@ finished 7.1.1
 Finished chap 4
 
 ## Modelling 2:
-need to do finish greens
+finished chap 8
 
 
 ## Alg 2:
