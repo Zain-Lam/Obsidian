@@ -1,9 +1,9 @@
 2025-01-31 21:21
 Status: 
-Tags: [[Power Series]]
+Tags: [[Limits of functions and the derivative]]
 # proof for the derivative of inverses
 
-TD: YEAR1::TERM2::MA139 Analysis 2::01 Power Series 1
+TD: YEAR1::TERM2::MA139 Analysis 2::02 Limits and the derivative
 Q: Prove the derivatives of inverses theorem.
 A: Since $f$ has positive derivative, it is continuous and strictly increasing. Therefore, it
 has a continuous inverse. Let $(c, d)$ be the range of $f$, let $x$ be in the interval $(c, d)$, and $g(x) = y$. We want to calculate
@@ -26,5 +26,4 @@ and that this limit is positive. So by the properties of limits, we have
 $$
 \lim_{u \to x} \frac{g(u) - g(x)}{u - x} = \lim_{v \to y} \frac{v - y}{f(v) - f(y)} = \frac{1}{f'(y)} = \frac{1}{f'(g(x))}.
 $$
-<!--ID: 1738358580188-->
-
+<!--ID: 1746633405801-->
